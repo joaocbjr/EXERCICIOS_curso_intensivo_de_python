@@ -1,0 +1,15 @@
+lista ['a', 'b', 'c']
+
+ACRECENTADO ITEM NO FINAL
+        .APPEND
+    ex.:lista.append('d')
+        print('lista')
+        lista ['a', 'b', 'c', 'd']
+
+INSERINDO ITENS EM UMA LISTA
+        .INSERT
+    ex.:lista.insert(0, 'e')
+        print('lista')
+        lista ['e', 'a', 'b', 'c', 'd']
+
+REMOVENDO UM ITEM USANDO DEL      
