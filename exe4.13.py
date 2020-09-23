@@ -6,4 +6,3 @@ pratos = ('sopa', 'macarronada', 'Churrasco', 'feijoada', 'Cuscuz')
 for prato in pratos:
     print(prato)
 
-    
