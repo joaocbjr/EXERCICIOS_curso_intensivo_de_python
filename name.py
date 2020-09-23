@@ -37,5 +37,11 @@ while (True):
 media = sum(numlist) / len(numlist)
 print('Média: ',media)
 '''
+ingrediente = ['calabresa', 'parmesão', 'champion']
 
-
+if 'calabresa' in ingrediente:
+	print('adicione calabresa')
+if 'mussarela' in ingrediente:
+	print('adicione mussarela')
+if 'champion' in ingrediente:
+	print('adicione champion')
