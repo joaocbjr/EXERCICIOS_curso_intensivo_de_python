@@ -13,7 +13,7 @@ print(
 )
 print()
 
-alien_color = input('Escolha uma cor para o Alien: Amarelo, verde ou vermelho', alien_color))
+alien_color = input(str('Entre Amarelo, verde ou vermelho. Escolha uma cor para o Alien: '))
 
 if alien_color == 'verde':
     print('Você ganhou 05 pontos!')
