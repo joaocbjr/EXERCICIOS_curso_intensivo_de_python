@@ -1,2 +1,4 @@
 finalizar exe4.13.py
+finalizar exe5.6.py
+resolver exe5.7.py
 parei na pag 123
