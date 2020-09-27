@@ -23,7 +23,7 @@ age = input(int('Qual é a sua idade: '))
 
 if age < 2:
     print('Você é um bebê.')
-elif age >= 2 and < 4:
+elif age > 2 and < 4:
     print('Você é uma criança.')
 elif age >= 4 and < 13:
     print('Você é um(a) garoto(a).')
