@@ -1,5 +1,6 @@
 finalizar exe4.13.py
 finalizar exe5.6.py
 resolver exe5.7.py à 5.13
-parei na pag 133
-==> Adicionando novos pares chave-valor
+parei na pag 138
+==> Percorrendo um dicionário com um laço
+resolver exe6.3.py
