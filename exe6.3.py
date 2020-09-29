@@ -18,11 +18,15 @@ print(
     'sua saída.'
 )
 print()
-glossario = {
-'if': 'altera o fluxo baseado no valor, verdadeiro ou falso, de uma expressão lógica.',
-'lista': 'é uma coleção de itens em uma ordem em particular.',
-'variaveis': 'é convencionalmente, um elemento representante do conjunto de todos os resultados possíveis de um fenômeno.',
-'strings': 'é simplesmente uma série de caracteres.',
-'tupla': 'é uma Lista imutável.'
-}
+print("GLOSSÁRIO:")
+glossario_0 = {'verbet': 'if', 'signif': 'altera o fluxo baseado no valor, verdadeiro ou falso, de uma expressão lógica.'}
+glossario_1 = {'verbet': 'lista', 'signif': 'é uma coleção de itens em uma ordem em particular.'}
+glossario_2 = {'verbet': 'variaveis', 'signif': 'é convencionalmente, um elemento representante do conjunto de todos os resultados possíveis de um fenômeno.'}
+glossario_3 = {'verbet': 'strings', 'signif': 'é simplesmente uma série de caracteres.'}
+glossario_4 = {'verbet': 'tupla', 'signif': 'é uma Lista imutável.'}
 
+print(glossario_0['verbet'].title() + ': ' + glossario_0['signif'])
+print(glossario_1['verbet'].title() + ': ' + glossario_1['signif'])
+print(glossario_2['verbet'].title() + ': ' + glossario_2['signif'])
+print(glossario_3['verbet'].title() + ': ' + glossario_3['signif'])
+print(glossario_4['verbet'].title() + ': ' + glossario_4['signif'])
