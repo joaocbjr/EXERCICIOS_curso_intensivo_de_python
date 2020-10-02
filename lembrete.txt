@@ -1,4 +1,5 @@
 finalizar exe4.13.py
 finalizar exe5.6.py
 resolver exe5.7.py à 5.13
-parei no exe6.4
+parei pag 144
+"Uma lista de dicionários"
