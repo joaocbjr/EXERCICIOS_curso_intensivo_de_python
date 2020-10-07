@@ -3,4 +3,3 @@ finalizar exe5.6.py
 resolver exe5.7.py à 5.13
 parei pag 144
 "Uma lista de dicionários"
-finalizar exe6.7.py
