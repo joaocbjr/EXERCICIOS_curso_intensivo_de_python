@@ -9,7 +9,7 @@ pets = [
     'preta' : {'tipo': 'galinha', 'dono': 'João'}
     'lilica' : {'tipo': 'cachorro', 'dono': 'Celso'}
     'vovó' : {'tipo': 'gato', 'dono': 'Driele'}
-    'elves' : {'tipo': 'porco', 'dono': 'Adenilton'}
+    'elvis' : {'tipo': 'porco', 'dono': 'Adenilton'}
 ]
 
 for name, tipo, dono  in pets:
