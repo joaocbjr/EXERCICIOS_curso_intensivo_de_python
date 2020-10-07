@@ -6,9 +6,9 @@ print('\n6.7 – Pessoas:\n'
     'um laço. À medida que percorrer a lista, apresente tudo '
     'que você sabe sobre cada pessoa.\n')
 
-pessoa_0 = {'nome': 'Ester', 'last_name': 'Francisca', 'age': 32, 'city': 'Aracaju'}
-pessoa_1 = {'nome': 'João', 'last_name': 'Correia', 'age': 38, 'city': 'Aracaju'}
-pessoa_2 = {'nome': 'Bernardo', 'last_name': 'Sandes', 'age': 3, 'city': 'Aracaju'}
+pessoa_0 = {'name': 'Ester', 'last_name': 'Francisca', 'age': 32, 'city': 'Aracaju'}
+pessoa_1 = {'name': 'João', 'last_name': 'Correia', 'age': 38, 'city': 'Aracaju'}
+pessoa_2 = {'name': 'Bernardo', 'last_name': 'Sandes', 'age': 3, 'city': 'Aracaju'}
 
 people = [pessoa_0, pessoa_1, pessoa_2]
 
