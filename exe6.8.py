@@ -5,12 +5,12 @@ print('\n6.8 – Animais de estimação:\n'
     'dicionários em uma lista chamada pets. Em seguida, percorra '
     'sua lista com um laço e, à medida que fizer isso, apresente '
     'tudo que você sabe sobre cada animal de estimação.\n')
-pets = {
+pets = [
     'preta' : {'tipo': 'galinha', 'dono': 'João'}
     'lilica' : {'tipo': 'cachorro', 'dono': 'Celso'}
     'vovó' : {'tipo': 'gato', 'dono': 'Driele'}
     'elves' : {'tipo': 'porco', 'dono': 'Adenilton'}
-}
+]
 
-for name, tipo, dono  in pets.items():
-    print()
+for name, tipo, dono  in pets:
+    print('\nNome: ' + name)
