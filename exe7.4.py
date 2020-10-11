@@ -5,8 +5,8 @@ print('\n7.4 – Ingredientes para uma pizza:\n'
 'apresente uma mensagem informando que você acrescentará esse '
 'ingrediente à pizza.\n')
 
-prompt = '\n(Adicione ingrediente a pizza)'
-while True:
-    city = input(prompt)
-    input('Adcione ingrediente a pizza: ')
-
+prompt = 'Adicione ingredientes à pizza ou digite "quit" para encerrar o programa. '
+mensagem = ''
+while mensagem != 'quit':
+    mensagem = input(prompt)
+    print(mensagem)
