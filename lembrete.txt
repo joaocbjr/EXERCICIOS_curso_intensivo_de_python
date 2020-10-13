@@ -2,8 +2,8 @@ finalizar exe4.13.py
 finalizar exe5.6.py
 resolver exe5.7.py à 5.13
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-parei pag 160
-"momento, é True."
+parei pag 164
+"Transferindo itens de uma lista para outra"
 -=-=-=-=-=-=-=-=-=-=-=-=-=
 resolver exe6.8
 obs.: estudar mais dicionários
