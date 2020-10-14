@@ -6,4 +6,4 @@ parei pag 164
 "Transferindo itens de uma lista para outra"
 -=-=-=-=-=-=-=-=-=-=-=-=-=
 resolver exe6.8
-obs.: estudar mais dicionários
+obs.: estudar muito mais dicionários
