@@ -1,6 +1,4 @@
-print()
-print(
-    '5.6 – Estágios da vida:\n'
+print('\n5.6 – Estágios da vida:\n'
     ' Escreva uma cadeia if-elif-else que determine estágio '
     'da vida de uma pessoa. Defina um valor para a variável '
     'age e então: \n'
@@ -15,22 +13,21 @@ print(
     '• Se a pessoa tiver pelo menos 20 anos, mas menos de 65, '
     'mostre uma mensagem dizendo que ela é adulto.\n'
     '• Se a pessoa tiver 65 anos ou mais, '
-    'mostre uma mensagem dizendo que essa pessoa é idoso.'
+    'mostre uma mensagem dizendo que essa pessoa é idoso.\n'
 )
-print()
 
 age = input(int('Qual é a sua idade: '))
 
 if age < 2:
     print('Você é um bebê.')
-elif age > 2 and < 4:
+elif age < 4:
     print('Você é uma criança.')
-elif age >= 4 and < 13:
+elif age < 13:
     print('Você é um(a) garoto(a).')
-elif age >= 13 and < 20:
+elif age < 20:
     print('Você é um(a) adolecente.')
-elif age >= 20 and < 65:
+elif age < 65:
     print('Você é adulto(a).')
-else age >= 65:
+else age > 64:
     print('Você é idoso.')
 
