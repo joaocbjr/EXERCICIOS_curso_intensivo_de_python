@@ -6,4 +6,6 @@ parei pag 164
 "Transferindo itens de uma lista para outra"
 -=-=-=-=-=-=-=-=-=-=-=-=-=
 resolver exe6.8
+resolver exe7.9
+resolver exe7.10
 obs.: estudar muito mais dicionários
