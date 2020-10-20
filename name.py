@@ -60,5 +60,3 @@ while unconfirmed_users:
 print("\nOs seguintes usuários foram confirmados:") 
 for confirmed_user in confirmed_users:
     print(confirmed_user.title())
-    unconfirmed_users = ['alice', 'brian', 'candace']
-    confirmed_users = []
