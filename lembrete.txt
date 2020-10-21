@@ -1,11 +1,11 @@
 finalizar exe4.13.py
 finalizar exe5.6.py
 resolver exe5.7.py à 5.13
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-parei pag 173
-"Argumentos nomeados"
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+parei pag 175
+"Chamada de função equivalente"
 -=-=-=-=-=-=-=-=-=-=-=-=-=
 resolver exe6.8
 resolver exe7.9
 resolver exe7.10
-obs.: estudar muito mais dicionários
+obs.: estudar mais dicionários
