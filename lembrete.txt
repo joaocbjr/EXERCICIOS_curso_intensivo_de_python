@@ -1,10 +1,10 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=
+parei pag 178
+"Valor de retorno"
+-=-=-=-=-=-=-=-=-=-=-=-=-=
 finalizar exe4.13.py
 finalizar exe5.6.py
 resolver exe5.7.py à 5.13
--=-=-=-=-=-=-=-=-=-=-=-=-=
-parei pag 175
-"Chamada de função equivalente"
--=-=-=-=-=-=-=-=-=-=-=-=-=
 resolver exe6.8
 resolver exe7.9
 resolver exe7.10
