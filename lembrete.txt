@@ -1,6 +1,6 @@
 -=-=-=-=-=-=-=-=-=-=-=-=-=
-parei pag 178
-"Valor de retorno"
+parei pag 180
+"Devolvendo um dicionário"
 -=-=-=-=-=-=-=-=-=-=-=-=-=
 finalizar exe4.13.py
 finalizar exe5.6.py
