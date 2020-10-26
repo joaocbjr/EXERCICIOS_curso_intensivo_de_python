@@ -8,4 +8,4 @@ resolver exe5.7.py à 5.13
 resolver exe6.8
 resolver exe7.9
 resolver exe7.10
-obs.: estudar mais dicionários
+obs.: estudar mais dicionários MUITO MAIS
