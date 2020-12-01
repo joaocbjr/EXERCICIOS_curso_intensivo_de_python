@@ -13,6 +13,10 @@ print('\n8.7 – Álbum:\n'
     'do álbum. Faça pelo menos uma nova chamada da função incluindo '
     'o número de faixa sem um álbum.\n')
 
+def make_album():
+    '''Descreve um album musical'''
+    album = {'artista': nome_artista, 'album': titulo_album}
+    return album
 
 
 
