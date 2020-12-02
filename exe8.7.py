@@ -7,7 +7,7 @@ print('\n8.7 – Álbum:\n'
     'álbuns  diferentes. Apresente cada valor devolvido para '
     'mostrar que os dicionários estão armazenando as informações '
     'do álbum corretamente.\n Acrescente um parâmetro opcional '
-    'em make_album() que permita armazenaro número de faixas em '
+    'em make_album() que permita armazenar o número de faixas em '
     'um álbum. Se a linha que fizer a chamada incluir um valor '
     'para o número de faixas, acrescente esse valor ao dicionário '
     'do álbum. Faça pelo menos uma nova chamada da função incluindo '
@@ -18,6 +18,7 @@ def make_album():
     album = {'artista': nome_artista, 'album': titulo_album}
     return album
 
+make_album()
 
 
 
