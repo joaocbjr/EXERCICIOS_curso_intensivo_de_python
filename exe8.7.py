@@ -13,12 +13,25 @@ print('\n8.7 – Álbum:\n'
     'do álbum. Faça pelo menos uma nova chamada da função incluindo '
     'o número de faixa sem um álbum.\n')
 
-'''
-nome = input(str('Digite o nome do artista: '))
-titulo = input(str('Digite o titulo do album: '))
+def make_album():
+# Devolve artista, album.
+    nome = {}          
+# Define uma flag para indicar que inserção de dados está ativa
+    incluir = True
+    while incluir:
+# Pede para incluir nome do artista e do album
+        artista = input('\nDigite o nome do artista: ') 
+        album = input('Digite seu album: ')
+# Armazena as respostas no dicionário
+        nome[artista] = album
+# pergunta se vai inserir mais albuns
+        repeat = input('Deseja inserir mais algum album? [s|n] ')
+        if repeat == 'n':
+            incluir = False
+# A lista de albuns foi concluída.
+# Mostra os resultados
+    print('\n -=-=-=- Dicionário de Album musical -=-=-=-')
+    for artista, album in nome.items():
+        print(artista.title() + ', ' + album.title())
 
-album = {'Nome do artista': nome, 'titulo': titulo}
-print (album)
-'''
-album1['Nome do artista'] = 
-album1['Nome do titulo']
+make_album()
